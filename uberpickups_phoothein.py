@@ -9,7 +9,7 @@ Original file is located at
 
 # SOURCE: https://docs.streamlit.io/get-started/tutorials/create-an-app
 # Install streamlit, if needed: pip install streamlit
-!pip install streamlit
+
 
 import streamlit as st
 import pandas as pd
